@@ -38,7 +38,3 @@ meteor remove autopublish
 # run it on whatever port you want
 meteror run --port 3000
 ```
-
-### Demo
-
-Here's link to a [demo site](http://map-push.xpoda.com/).
